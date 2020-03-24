@@ -25,9 +25,8 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 
-
+@Path("/")
 public class StringEngine {
-	@Path("/")
 	// TASK 3
 	public static ArrayList<String> printPermutationsIterative(String string){
 		ArrayList<String> myList = new ArrayList<String>();
