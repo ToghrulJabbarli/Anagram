@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram\wlp</installDirectory>
+    <serverDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram\wlp\usr\servers\defaultServer</serverDirectory>
+    <userDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram\wlp\usr</userDirectory>
+    <serverOutputDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram\wlp\usr\servers\defaultServer</serverOutputDirectory>
+    <serverName>defaultServer</serverName>
+    <configDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram\deploy\prod\defaultServer</configDirectory>
+    <configFile>C:\Users\Toghrul Jabbarli\Videos\anagram\deploy\prod\defaultServer\server.xml</configFile>
+    <bootstrapProperties>
+        <server.start.wait.time>180</server.start.wait.time>
+    </bootstrapProperties>
+    <serverEnv>C:\Users\Toghrul Jabbarli\Videos\anagram\deploy\prod\defaultServer\server.env</serverEnv>
+    <appsDirectory>dropins</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>all</installAppPackages>
+    <applicationFilename>anagram.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>com.ibm.websphere.appserver.runtime</groupId>
+        <artifactId>wlp-javaee8</artifactId>
+        <version>19.0.0.5</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\Toghrul Jabbarli\.m2\repository\com\ibm\websphere\appserver\runtime\wlp-javaee8\19.0.0.5\wlp-javaee8-19.0.0.5.zip</assemblyArchive>
+    <assemblyInstallDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>C:\Users\Toghrul Jabbarli\Videos\anagram\wlp\usr\servers\defaultServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>liberty-assembly</projectType>
+    <projectCompileDependency>javax:javaee-api:8.0.1</projectCompileDependency>
+    <projectCompileDependency>com.sun.mail:javax.mail:1.6.2</projectCompileDependency>
+    <projectCompileDependency>javax.activation:activation:1.1</projectCompileDependency>
+    <projectCompileDependency>org.json:json:20190722</projectCompileDependency>
+    <projectCompileDependency>com.google.guava:guava:28.2-jre</projectCompileDependency>
+    <projectCompileDependency>com.google.guava:failureaccess:1.0.1</projectCompileDependency>
+    <projectCompileDependency>com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava</projectCompileDependency>
+    <projectCompileDependency>com.google.code.findbugs:jsr305:3.0.2</projectCompileDependency>
+    <projectCompileDependency>org.checkerframework:checker-qual:2.10.0</projectCompileDependency>
+    <projectCompileDependency>com.google.errorprone:error_prone_annotations:2.3.4</projectCompileDependency>
+    <projectCompileDependency>com.google.j2objc:j2objc-annotations:1.3</projectCompileDependency>
+    <projectCompileDependency>org.apache.commons:commons-lang3:3.7</projectCompileDependency>
+    <projectCompileDependency>com.squareup.okhttp3:okhttp:4.4.1</projectCompileDependency>
+    <projectCompileDependency>org.jetbrains.kotlin:kotlin-stdlib:1.3.61</projectCompileDependency>
+    <projectCompileDependency>org.jetbrains.kotlin:kotlin-stdlib-common:1.3.61</projectCompileDependency>
+    <projectCompileDependency>org.jetbrains:annotations:13.0</projectCompileDependency>
+    <projectCompileDependency>com.squareup.okio:okio:2.2.2</projectCompileDependency>
+    <projectCompileDependency>commons-io:commons-io:2.6</projectCompileDependency>
+    <warSourceDirectory>C:\Users\Toghrul Jabbarli\Videos\anagram\src\main\webapp</warSourceDirectory>
+</liberty-plugin-config>

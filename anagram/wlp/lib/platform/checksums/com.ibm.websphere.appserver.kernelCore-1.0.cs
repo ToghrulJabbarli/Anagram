@@ -1,0 +1,27 @@
+#Thu May 23 01:13:33 BST 2019
+lib/com.ibm.ws.org.apache.aries.jmx.core.whiteboard_1.0.28.jar=8c0f39073c5eab631b67ed0e010770a6
+lib/com.ibm.ws.config_1.0.28.jar=bafaf69555af1c400368ce4dc6d5c900
+lib/com.ibm.ws.org.apache.aries.jmx.api_1.0.28.jar=8a723061df5f171046f51d7b4f56b9ae
+lib/com.ibm.ws.event_1.0.28.jar=58338511f99d7ad361557aa6c76ea299
+lib/com.ibm.ws.org.objectweb.asm_1.0.28.jar=a1bbf9e5ae93a119faacf702fc1dfd84
+lib/com.ibm.ws.org.eclipse.equinox.coordinator_1.0.28.jar=78381aa0c166492a03111b3417553663
+lib/com.ibm.ws.org.eclipse.equinox.region_1.0.28.jar=002bb68e4e199e4eb1e4317b4d679cf3
+lib/org.eclipse.osgi_3.14.0.jar=54b5cfdcb843b960a7f0ab7b4f0347d9
+lib/com.ibm.ws.org.jboss.jandex_1.0.28.jar=aaeae3bcc8575487131d68fc471f48db
+lib/com.ibm.ws.kernel.feature_1.0.28.jar=7b26fe8b836d4f1331d6bba90173c31a
+lib/com.ibm.ws.org.apache.felix.scr_1.0.28.jar=2e16a7ebe86eecb081898e8bcb483858
+lib/platform/kernelCore-1.0.mf=691860280829c147dd0b783ab3771757
+lib/com.ibm.ws.kernel.instrument.serialfilter_1.0.28.jar=119ec3ff044a5a174ab336ca3563b6d8
+lib/com.ibm.ws.kernel.metatype.helper_1.0.28.jar=1e2256d90c5bb98f11e4279b31e1e1f0
+lib/com.ibm.ws.config.ext_1.0.28.jar=5bb2493c3628c1891449fdde17fe1f1b
+lib/com.ibm.ws.threading_1.1.28.jar=cf00b07c238d31bd974263badef2e790
+lib/com.ibm.ws.runtime.update_1.0.28.jar=d087894b8fef23d921a011344e35fccf
+lib/com.ibm.ws.diagnostics_1.0.28.jar=02db301e4e6435d8e396dbed967d2fba
+lib/com.ibm.ws.org.apache.aries.util_1.0.28.jar=0409851c3b8bd69b77b2c647926b82b5
+lib/com.ibm.ws.org.eclipse.equinox.metatype_1.0.28.jar=cd6403810524dd9f844261b7b4084401
+lib/com.ibm.ws.kernel.instrument.serialfilter.serverconfig_1.0.28.jar=9ffb6e5da71916ffb11870a77445564b
+lib/com.ibm.ws.kernel.filemonitor_1.0.28.jar=bbeca4246c20deb4974547455ea7773a
+lib/com.ibm.ws.jmx_1.0.28.jar=b7f9552138b89feff5591c67233a2eb9
+lib/com.ibm.ws.kernel.service_1.3.28.jar=2e166ec208986fac8dcf1fe432aa3ed4
+lib/com.ibm.ws.kernel.equinox.module_1.0.28.jar=8fa3996ca10146ccd64e279ec5ae9a58
+lib/com.ibm.ws.crypto.passwordutil_1.0.28.jar=fd4dd3a5e616f688d335f57858fbf8ae

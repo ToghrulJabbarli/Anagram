@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="C:\Users\Toghrul Jabbarli\Videos\anagram\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\Users\Toghrul Jabbarli\Videos\anagram\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\javax\javaee-api\8.0.1\javaee-api-8.0.1.jar" targetInArchive="/WEB-INF/lib/javaee-api-8.0.1.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\sun\mail\javax.mail\1.6.2\javax.mail-1.6.2.jar" targetInArchive="/WEB-INF/lib/javax.mail-1.6.2.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar" targetInArchive="/WEB-INF/lib/activation-1.1.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\org\json\json\20190722\json-20190722.jar" targetInArchive="/WEB-INF/lib/json-20190722.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\google\guava\guava\28.2-jre\guava-28.2-jre.jar" targetInArchive="/WEB-INF/lib/guava-28.2-jre.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar" targetInArchive="/WEB-INF/lib/failureaccess-1.0.1.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" targetInArchive="/WEB-INF/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar" targetInArchive="/WEB-INF/lib/jsr305-3.0.2.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\org\checkerframework\checker-qual\2.10.0\checker-qual-2.10.0.jar" targetInArchive="/WEB-INF/lib/checker-qual-2.10.0.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar" targetInArchive="/WEB-INF/lib/error_prone_annotations-2.3.4.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar" targetInArchive="/WEB-INF/lib/j2objc-annotations-1.3.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\org\apache\commons\commons-lang3\3.7\commons-lang3-3.7.jar" targetInArchive="/WEB-INF/lib/commons-lang3-3.7.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\squareup\okhttp3\okhttp\4.4.1\okhttp-4.4.1.jar" targetInArchive="/WEB-INF/lib/okhttp-4.4.1.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.3.61\kotlin-stdlib-1.3.61.jar" targetInArchive="/WEB-INF/lib/kotlin-stdlib-1.3.61.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.3.61\kotlin-stdlib-common-1.3.61.jar" targetInArchive="/WEB-INF/lib/kotlin-stdlib-common-1.3.61.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar" targetInArchive="/WEB-INF/lib/annotations-13.0.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\com\squareup\okio\okio\2.2.2\okio-2.2.2.jar" targetInArchive="/WEB-INF/lib/okio-2.2.2.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar" targetInArchive="/WEB-INF/lib/commons-io-2.6.jar"/>
+    <file sourceOnDisk="C:\Users\Toghrul Jabbarli\Videos\anagram\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>

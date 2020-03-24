@@ -1,0 +1,12 @@
+PH06141 MULTIPART/RELATED SOAP PART CONTENT-TYPE ISSUE
+PH08972 LIBERTY ON Z/OS MESSAGE CWWKS2934E ISSUED DURING INITIALIZATION.THIS CAN BE CONFUSING WHEN IT DOES NOT REFLECT FINAL STATUS.
+PH11844 Joining a member to a pre-18.0.0.2 controller fails with default collective-wide ssh key
+OLGH6095 Ability to extend the size of the log buffer beyond 8k on WAS Liberty Profile
+OLGH6391 Building .tar.gz server package fails on Windows
+OLGH7201 EclipseLink: Deliver Bug #533724
+OLGH7307 redirectcontextroot=true and redirected secure page causes null
+OLGH7332 remoteIp "proxies" Default Regex Adjustment 
+OLGH7407 Better handle private headers during message deserialization
+OLGH7434 NullPointerException in MethodAttribUtils.getXMLCMCLockAccessTimeout
+OLGH7441 NullPointerException in AppDefinedResourceFactory
+OLGH7448 NPE in LTPAConfigurationImpl.loadConfig
