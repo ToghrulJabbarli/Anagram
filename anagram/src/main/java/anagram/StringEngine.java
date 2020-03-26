@@ -27,6 +27,7 @@ import okhttp3.Response;
 
 @Path("/")
 public class StringEngine {
+	
 	// TASK 3
 	public static ArrayList<String> printPermutationsIterative(String string){
 		ArrayList<String> myList = new ArrayList<String>();
@@ -71,7 +72,7 @@ public class StringEngine {
         // count array 
         for (i = 0; i < str1.length() && i < str2.length(); i++) 
         { 
-            count[str1.charAt(i)]++; 
+            count[str1.charAt(i)]++;
             count[str2.charAt(i)]--; 
         } 
   
@@ -89,18 +90,20 @@ public class StringEngine {
     } 
   
     // This function prints all anagram pairs in a  TWO PARAMETERS   given array of string
-    static void findAllAnagrams(String word,String arr[]) 
+    static boolean findAllAnagrams(String word,String arr[])  // word compare with - arr[0] , arr[1] ....etc. arr[n]
     { 
     	String result = null;
         for (int i = 0; i < arr.length; i++) 
-            for (int j = i+1; j < arr.length; j++) 
+            for (int j = i; j < arr.length; j++) 
                 if (areAnagram(word, arr[j]))
                 {
                 	  
                 	  result = word +  
                               " is anagram of " + arr[j];
+                	  return true;
                 }
                   System.out.print(result + "\n");
+                  return false;
     }
     
     
@@ -202,13 +205,12 @@ public class StringEngine {
        		String[] word2 = word1[0].split(":");
        		String[] word3 = word2[1].split("\"");
        		
-
-       		   String arr[] = {"olve", 
-                    "abcd", "nep",   word3[1],
-                    "gap","plan","ppale","ranmdo"}; 
+       		   String arr[] = {word3[1], 
+                    "Apple", "Life", "Mountains"  ,
+                    "Weather","Bottle","Pen","Car"}; 
                
        		
-               findAllAnagrams(string1,arr);  
+              boolean isAnagram =  findAllAnagrams(string1,arr);  
                
                String meaning = "";
                for(int i = 1; i < word1.length; i++)
@@ -216,7 +218,16 @@ public class StringEngine {
             	   meaning = meaning + word1[i];
                }
                
-               return "Word " + string2 + " is anagram of " + string1 + "\n\n<br></br>" +  word3[1] + "\n" + meaning + "]";
+               if(isAnagram)
+               {
+                   return "Word " + string2 + " is anagram of " + string1 + "\n\n<br></br>" +  word3[1] + "\n" + meaning + "]";
+
+               }else
+               {
+                   return "Word " + string2 + " is not anagram of " + string1 + "\n\n<br></br>";
+
+               }
+            			   
 
                
     }
@@ -229,6 +240,8 @@ public class StringEngine {
 		
 		String res = AnagramCalling("olve","love");
 		System.out.print(res);
+		
+	
 	}
 }
 
